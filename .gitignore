@@ -1,0 +1,28 @@
+# Unreal Engine Git Ignore
+
+# Build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+
+# Intermediate files
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Backup files
+*.tmp
+*.log
+*.bak
+
+# Config cache
+*.opensdf
+*.sdf
+*.db
